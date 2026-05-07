@@ -1,0 +1,13 @@
+Month,Customer,Category,Pigs_Sold,Revenue,Feed_Cost
+January,Farmers Choice,Contracted Buyer,120,2400000,850000
+January,Westlands Hotel,Hotel Chain,40,720000,250000
+January,Kitale Butchery,Butchery,30,540000,180000
+January,Uganda Exporters,Export,60,1500000,400000
+February,Farmers Choice,Contracted Buyer,140,2800000,900000
+February,Eldoret Hotel Group,Hotel Chain,50,900000,300000
+February,Trans Nzoia Butchery,Butchery,35,630000,200000
+February,Rwanda Exporters,Export,70,1750000,450000
+March,Farmers Choice,Contracted Buyer,150,3000000,950000
+March,Nairobi Hotel Group,Hotel Chain,60,1080000,350000
+March,Kitale Pork Centre,Butchery,45,810000,250000
+March,Tanzania Exporters,Export,90,2250000,600000
